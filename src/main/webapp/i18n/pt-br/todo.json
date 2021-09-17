@@ -1,0 +1,25 @@
+{
+  "appTodolistApp": {
+    "todo": {
+      "home": {
+        "title": "Todos",
+        "refreshListLabel": "Atualizar lista",
+        "createLabel": "Criar novo Todo",
+        "createOrEditLabel": "Criar ou editar Todo",
+        "notFound": "Nenhum Todo encontrado"
+      },
+      "created": "Um novo Todo foi criado com o identificador {{ param }}",
+      "updated": "Um Todo foi atualizado com o identificador {{ param }}",
+      "deleted": "Um Todo foi excluído com o identificador {{ param }}",
+      "delete": {
+        "question": "Tem certeza de que deseja excluir Todo {{ id }}?"
+      },
+      "detail": {
+        "title": "Todo"
+      },
+      "id": "ID",
+      "subject": "Subject",
+      "detail": "Detail"
+    }
+  }
+}
